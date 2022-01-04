@@ -30,7 +30,7 @@
           <el-radio :label="2" disabled>单休</el-radio>
         </el-radio-group>
       </el-form-item>
-      <div class="tips">大小周与单休功能正在开发中</div>
+      <div class="tips">你都单休大小周了，还摸什么鱼？？？</div>
     </el-form>
   </el-card>
 </template>

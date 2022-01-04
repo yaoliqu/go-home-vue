@@ -250,6 +250,7 @@ export default {
   color: #303133;
   width: 500px;
   // height: 600px;
+  margin: 0 auto;
   overflow: hidden;
   .el-scrollbar {
     height: 100%;
