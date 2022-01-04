@@ -1,0 +1,11 @@
+@import './flex.scss';
+
+//设置全局盒模型为border-box
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
